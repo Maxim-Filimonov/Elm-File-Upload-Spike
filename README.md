@@ -2,6 +2,8 @@
 
 Blog we are using as [reference](https://elm-lang.org/blog/working-with-files)
 
+[First Pairing Session](https://youtu.be/ed_6MMkPvLM)
+
 This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).
 
 Below you will find some information on how to perform basic tasks.
